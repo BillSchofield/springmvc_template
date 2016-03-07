@@ -8,7 +8,7 @@
     <name>springmvc_template</name>
 
     <properties>
-        <spring.version>3.2.0.RELEASE</spring.version>
+        <spring.version>4.1.4.RELEASE</spring.version>
     </properties>
 
     <dependencies>
@@ -65,8 +65,8 @@
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>1.6</source>
-                    <target>1.6</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
             <plugin>
